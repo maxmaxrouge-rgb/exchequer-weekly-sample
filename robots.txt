@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maxmaxrouge-rgb.github.io/exchequer-weekly-sample/sitemap.xml
